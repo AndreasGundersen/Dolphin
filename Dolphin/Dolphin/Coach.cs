@@ -6,5 +6,8 @@ namespace Dolphin
 {
     class Coach
     {
+        string name;
+
+        public string Name { get => name; set => name = value; }
     }
 }

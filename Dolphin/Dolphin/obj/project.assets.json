@@ -664,25 +664,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hqk200.UNICPH.000\\.nuget\\packages\\": {},
+    "C:\\Users\\zbcchxol1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\hqk200.UNICPH.000\\Dolphin\\Dolphin\\Dolphin\\Dolphin.csproj",
+      "projectUniqueName": "C:\\Users\\zbcchxol1\\source\\repos\\Dolphin\\Dolphin\\Dolphin\\Dolphin.csproj",
       "projectName": "Dolphin",
-      "projectPath": "C:\\Users\\hqk200.UNICPH.000\\Dolphin\\Dolphin\\Dolphin\\Dolphin.csproj",
-      "packagesPath": "C:\\Users\\hqk200.UNICPH.000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hqk200.UNICPH.000\\Dolphin\\Dolphin\\Dolphin\\obj\\",
+      "projectPath": "C:\\Users\\zbcchxol1\\source\\repos\\Dolphin\\Dolphin\\Dolphin\\Dolphin.csproj",
+      "packagesPath": "C:\\Users\\zbcchxol1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zbcchxol1\\source\\repos\\Dolphin\\Dolphin\\Dolphin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\hqk200.UNICPH.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\zbcchxol1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],

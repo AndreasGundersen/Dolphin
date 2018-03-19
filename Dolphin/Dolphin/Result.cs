@@ -6,5 +6,8 @@ namespace Dolphin
 {
     class Result
     {
+        DateTime resultDateTime;
+
+        public DateTime ResultDateTime { get => resultDateTime; set => resultDateTime = value; }
     }
 }
